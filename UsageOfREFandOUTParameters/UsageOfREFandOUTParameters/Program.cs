@@ -46,5 +46,11 @@ namespace UsageOfREFandOUTParameters
             i = i * 3;
             y = 20 * 5;
         }
+
+        //Results:
+        //4
+        //10
+        //12
+        //100
     }
 }
